@@ -1,4 +1,4 @@
-# **Document Input and Output**
+# **Dog Challenge**
 ***
 
 This is an assignment submitted by Mason Adrales for INFOTC 2040 at the University of Missouri.
